@@ -1,2 +1,5 @@
-# volcanic-bedrock
-Volcanic Bedrock plugin for WordPress
+<div align="center">
+  
+![Volcanic Bedrock](https://raw.githubusercontent.com/VolcanicInternet/volcanic-bedrock/gh-pages/volcanic-bedrock.png)
+  
+</div>
